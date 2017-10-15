@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-webpart-client-side-solution",
+    "id": "2df8908d-d654-4f4e-8d86-1ada65b07e0c",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-webpart.sppkg"
+  }
+}

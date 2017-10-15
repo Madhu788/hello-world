@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "hello-webpart",
+  "accessKey": "<!-- ACCESS KEY -->"
+}
