@@ -35,7 +35,7 @@
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Madhu788/hello-world.git"
+    "url": "git+https://github.com/madhu788/hello-world.git"
   },
   "keywords": [
     "hello"
@@ -43,7 +43,7 @@
   "author": "madhu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Madhu788/hello-world/issues"
+    "url": "https://github.com/madhu788/hello-world/issues"
   },
-  "homepage": "https://github.com/Madhu788/hello-world#readme"
+  "homepage": "https://github.com/madhu788/hello-world#readme"
 }
